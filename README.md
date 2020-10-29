@@ -22,3 +22,5 @@ ZX81 Tapes, Hardware and Books Collection<br />
 http://www.zx81stuff.org.uk<br />
 The Sinclair ZX81<br />
 http://rwapsoftware.co.uk/zx812.html
+
+![alt text](https://github.com/RetrocompSi/ZX-Spectrum/blob/master/zx-spectrum.jpg)
