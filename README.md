@@ -2,12 +2,12 @@
 Wikipedia:<br />
 A home computer that was launched in the UK in 1981 and designed to be a low-cost introduction to home computing for the general public. It was hugely successful; more than 1.5 million units were sold.
 
-Hardware:<br /><br /><br />
-CPU: Z80 @ 3.25 MHz
-Memory: 1 KB (64 KB max. 56 KB usable)
-Storage: External Compact Cassette recorder at a claimed 250 bps (bits per second)
-Graphics: 24 lines × 32 characters or 64 × 48 pixels graphics mode, monochrome
-Sound: None
+Hardware:<br /><br />
+CPU: Z80 @ 3.25 MHz<br />
+Memory: 1 KB (64 KB max. 56 KB usable)<br />
+Storage: External Compact Cassette recorder at a claimed 250 bps (bits per second)<br />
+Graphics: 24 lines × 32 characters or 64 × 48 pixels graphics mode, monochrome<br />
+Sound: None<br />
 
 Emulator:
 JtyOne Online ZX81 Emulator
