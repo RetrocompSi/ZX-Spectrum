@@ -1,8 +1,8 @@
 # ZX-Spectrum
-Wikipedia:
+Wikipedia:<br />
 A home computer that was launched in the UK in 1981 and designed to be a low-cost introduction to home computing for the general public. It was hugely successful; more than 1.5 million units were sold.
 
-Hardware:
+Hardware:<br /><br /><br />
 CPU: Z80 @ 3.25 MHz
 Memory: 1 KB (64 KB max. 56 KB usable)
 Storage: External Compact Cassette recorder at a claimed 250 bps (bits per second)
