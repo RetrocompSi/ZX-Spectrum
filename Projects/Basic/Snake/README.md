@@ -1,4 +1,4 @@
-Play online: <br />
+Play online: (press R for RUN and ENTER for start, K for LIST)<br />
 http://torinak.com/qaop#l=https://dl.dropbox.com/s/6bfpyg31ajvy3hp/snake.tap
 
 Source: <br />
