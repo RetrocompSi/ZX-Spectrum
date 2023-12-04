@@ -1,5 +1,5 @@
 Play online: (press R for RUN and ENTER for start, K for LIST)<br />
-http://torinak.com/qaop#l=https://dl.dropbox.com/s/ujd0n6x02n5ae2v/stiri.tap
+http://torinak.com/qaop#l=https://dl.dropboxusercontent.com/scl/fi/h0yg73zjj8zye1ur8dc9s/mervin.tap?rlkey=vijf6gt5gc1p41pghgbw9buup&dl=0
 
 Source:<br />
 Mirko tipka na radirko, Žiga Turk in Ciril Kraševec, Moj Mikro, TOZD Revije, ČGP Delo, 1985<br />
