@@ -1,5 +1,3 @@
-Source:<br />
-Mirko tipka na radirko, Žiga Turk in Ciril Kraševec, Moj Mikro, TOZD Revije, ČGP Delo, 1985<br />
-http://retrospec.sgn.net/users/tomcat/yu/magshow.php?all=Knjige_Mirko
+Popravljena verzija poizvedbe 'Write a hangman game in ZX Spectrum Basic' v Bing Copilotu.<br />
 
-![alt text](https://github.com/RetrocompSi/ZX-Spectrum/blob/master/Projects/Basic/Safari/Safari-logo.png)
+![alt text](https://github.com/RetrocompSi/ZX-Spectrum/blob/master/Projects/Basic/Vislice/Vislice-logo.png)
