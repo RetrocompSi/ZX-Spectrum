@@ -12,14 +12,14 @@ Zvok: beeper, AY-3-8912 zvočni čip
 Emulator:<br />
 QAOP<br />
 http://torinak.com/qaop<br />
-Klive IDE<br />
-https://github.com/Dotneteer/kliveide
 
 Povezave:<br />
 ZX Spectrum<br />
 https://en.wikipedia.org/wiki/ZX_Spectrum<br />
 World of Spectrum<br />
 https://worldofspectrum.org<br />
+Klive IDE<br />
+https://github.com/Dotneteer/kliveide
 SpectNet IDE<br />
 https://dotneteer.github.io/spectnetide<br />
 
