@@ -1,6 +1,6 @@
-Kviz - Preprost kviz.<br />
-Mišek Mervin - Izpeljanka igre Arkanoid.<br />
-Safari - Izpeljanka igre Kača.<br />
-Snake - Igra kača.<br />
-Štiri v vrsto - Postavi štiri elemente v vrsto.<br />
-Vislice - Ugibanje izbrane besede.
+Kviz - preprost kviz<br />
+Mišek Mervin - izpeljanka igre Arkanoid<br />
+Safari - izpeljanka igre Kača<br />
+Snake - igra kača<br />
+Štiri v vrsto - postavi štiri znake v vrsto<br />
+Vislice - ugibanje izbrane besede
