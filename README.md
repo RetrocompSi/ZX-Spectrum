@@ -19,7 +19,7 @@ https://en.wikipedia.org/wiki/ZX_Spectrum<br />
 World of Spectrum<br />
 https://worldofspectrum.org<br />
 Klive IDE<br />
-https://github.com/Dotneteer/kliveide
+https://github.com/Dotneteer/kliveideg<br />
 SpectNet IDE<br />
 https://dotneteer.github.io/spectnetide<br />
 
