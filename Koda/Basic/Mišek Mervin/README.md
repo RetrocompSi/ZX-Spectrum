@@ -1,5 +1,5 @@
-Igranje: (pritisni R za RUN in ENTER za začetek, K za LIST)<br /><br />
-http://torinak.com/qaop#l=https://dl.dropboxusercontent.com/scl/fi/h0yg73zjj8zye1ur8dc9s/mervin.tap?rlkey=vijf6gt5gc1p41pghgbw9buup&dl=0
+Igranje: (pritisni R za RUN in ENTER za začetek, K za LIST)<br />
+http://torinak.com/qaop#l=https://www.retrocomp.si/tap/mervin.tap
 
 Vir:<br />
 Mirko tipka na radirko, Žiga Turk in Ciril Kraševec, Moj Mikro, TOZD Revije, ČGP Delo, 1985<br />
