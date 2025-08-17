@@ -1,5 +1,5 @@
 Igranje: (pritisni R za RUN in ENTER za začetek, K za LIST)<br />
-http://torinak.com/qaop#l=https://dl.dropbox.com/s/ujd0n6x02n5ae2v/stiri.tap
+http://torinak.com/qaop#l=https://www.retrocomp.si/tap/stiri.tap
 
 Vir:<br />
 Mirko tipka na radirko, Žiga Turk in Ciril Kraševec, Moj Mikro, TOZD Revije, ČGP Delo, 1985<br />
